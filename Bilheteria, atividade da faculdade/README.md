@@ -1,8 +1,21 @@
-Sistema de Gerenciamento de Streaming (StreamingApp.java)
-Descrição: Este projeto simula o backend de uma plataforma de streaming (como Netflix ou Spotify). O foco principal foi a organização de grandes volumes de dados de mídia.
+**🎬 StreamingApp: Sistema de Catálogo de Mídia**
 
-Funcionalidades: Cadastro de filmes/séries, categorização por gênero, sistema de busca e controle de perfis de usuário.
+Este projeto simula o backend de uma plataforma de streaming, focado na organização e recuperação eficiente de conteúdos audiovisuais (filmes e séries).
 
-Conceitos de Java: Uso intensivo de ArrayList para armazenamento, estruturas de repetição (for/while) para filtros e lógica de busca eficiente.
+**🛠️ Tecnologias e Conceitos**
 
-Objetivo: Demonstrar habilidades em manipulação de coleções de objetos e lógica de filtragem.
+Java 17+
+
+Lógica de Filtros: Implementação de algoritmos para busca por categoria, título ou ano de lançamento.
+
+Manipulação de Listas: Uso de ArrayList para gerenciar dinamicamente o catálogo de mídia.
+
+POO Avançada: Uso de classes para representar diferentes tipos de conteúdo.
+
+**🚀 Funcionalidades**
+
+Gerenciar Catálogo: Adicionar, remover e listar títulos disponíveis na plataforma.
+
+Busca Inteligente: Localizar conteúdos específicos através de parâmetros de entrada do usuário.
+
+Perfis de Usuário: Estrutura para separar preferências e históricos de visualização.
