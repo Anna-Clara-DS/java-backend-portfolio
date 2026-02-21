@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/82939155-9f9c-4087-9d69-7aa8a0cc58a9" width="400px" />
+  <img src="https://github.com/user-attachments/assets/37ef867d-76da-4928-bf45-e6876503cb8d" width="400px" />
   <h1>🎬 StreamingApp: Sistema de Catálogo</h1>
 </div>
 
