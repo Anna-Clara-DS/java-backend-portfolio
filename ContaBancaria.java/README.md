@@ -1,4 +1,7 @@
-# 🏦 Sistema Bancário Orientado a Objetos
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/68599df5-7dcf-40a6-8b3b-5b25360ced5c" width="400px" />
+  <h1>🏦 Sistema Bancário: Orientado a Objetos</h1>
+</div>
 
 Este projeto simula as operações essenciais de um banco, utilizando o padrão de arquitetura **MVC (Model-View-Controller)** para garantir uma separação clara entre a lógica de negócio e a interface com o usuário.
 
