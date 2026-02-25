@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="400px" />
+  <img src="https://github.com/user-attachments/assets/eb3d77ca-7531-4ff9-af2a-76409708b99f" width="400px" />
   <h1>🚗 Gestão de Frota Veicular</h1>
 </div>
 
